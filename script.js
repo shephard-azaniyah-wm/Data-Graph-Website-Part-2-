@@ -31,3 +31,5 @@ function drawStuff() {
     var chart = new google.charts.Bar(document.getElementById('top_x_div'));
     chart.draw(data, options);
 };
+
+
